@@ -1,0 +1,52 @@
+Создано встроенным ImageGen. Для каждого файла использована общая часть и соответствующий блок ниже.
+
+Use case: ads-marketing. Asset type: finished panoramic header photo for a Telegram bot menu for TheMarket digital store. Generate ONE single edge-to-edge banner, 2.4:1 very wide and short, around 1536 by 640. Brand system: premium graphite black #101218 and charcoal #191d27, pale desaturated lilac #bcc2ff, soft off-white. Distinctive understated CGI studio product photography, realistic matte graphite and translucent lavender glass, sharp readable modern sans-serif typography, rich but very restrained studio lighting, a subtle curved orbit line, soft highlights. Layout for this series: left typography column with approximately 8 percent margin, sculpture on the right entirely inside frame, subject and text clearly separate. Keep all text and principal object vertically centered with 12 percent safe margin. Tiny clear "TheMarket" above the main heading; large and exceptionally readable Russian heading; beneath it smaller tracked English label. Text exactly as specified below, no extra words, no typographic errors. Legibility at 380 pixels wide. No people, no app UI, no buttons, no screenshot or borders, no watermark. Dark opaque backdrop.
+
+catalog.png
+Heading verbatim: "Каталог". Small subtitle verbatim: "CATALOG".
+Right-hand subject: A compact sculptural shopping basket in smoky graphite glass with three stacked product tiles, with lavender glass edges and a clean recognizable silhouette.
+
+wallet.png
+Heading verbatim: "Кошелёк". Small subtitle verbatim: "WALLET".
+Right-hand subject: A premium closed graphite digital wallet with a softly glowing lavender card visible above the rim.
+
+deposit.png
+Heading verbatim: "Пополнение". Small subtitle verbatim: "TOP UP".
+Right-hand subject: A graphite wallet receiving one lavender glass token, with a single dimensional downward arrow hovering above the opening.
+
+orders.png
+Heading verbatim: "Мои покупки". Small subtitle verbatim: "MY PURCHASES".
+Right-hand subject: Two elegant graphite parcel boxes with lavender bands, with a small glass receipt or checkmark tile in front.
+
+support.png
+Heading verbatim: "Поддержка". Small subtitle verbatim: "SUPPORT".
+Right-hand subject: Two overlapping rounded 3D chat bubbles, a graphite one behind a lilac one, with three small translucent dots.
+
+language.png
+Heading verbatim: "Язык". Small subtitle verbatim: "LANGUAGE".
+Right-hand subject: A lilac glass globe with softly lit latitude and longitude lines and a small graphite speech bubble, all rendered in high quality product studio lighting.
+
+about.png
+Heading verbatim: "О магазине". Small subtitle verbatim: "ABOUT".
+Right-hand subject: A rounded graphite information plaque with a raised lavender lowercase i and two layered glass brand tiles.
+
+profile.png
+Heading verbatim: "Профиль". Small subtitle verbatim: "PROFILE".
+Right-hand subject: A clean graphite profile card with a dimensional lavender avatar silhouette and three minimalist shallow embossed data lines, without legible filler text.
+
+guide.png
+Heading verbatim: "Как купить". Small subtitle verbatim: "HOW TO BUY".
+Right-hand subject: A softly opened graphite guidebook with pale lavender pages and a dimensional ribbon bookmark.
+
+terms.png
+Heading verbatim: "Условия". Small subtitle verbatim: "TERMS".
+Right-hand subject: A graphite agreement sheet with shallow embossed abstract lines and a lavender glass checkmark seal.
+
+news.png
+Heading verbatim: "Уведомления". Small subtitle verbatim: "NOTIFICATIONS".
+Right-hand subject: A sculptural matte graphite notification bell with pale lavender translucent trim and a subtle halo.
+
+channel.png
+Heading verbatim: "Наш канал". Small subtitle verbatim: "JOIN OUR CHANNEL".
+Right-hand subject: A dimensional lavender paper plane floating above a dark softly rounded graphite tile, with a subtle elegant curved flight trail.
+

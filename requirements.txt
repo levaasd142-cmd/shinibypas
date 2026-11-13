@@ -1,0 +1,11 @@
+# Supported ranges (Windows launcher installs these). Docker installs the exact, tested
+# versions from requirements.lock: regenerate it with `pip freeze > requirements.lock`
+# after `pip install -r requirements.txt` in a clean Python 3.13 virtualenv.
+fastapi>=0.115,<1
+uvicorn>=0.34,<1
+aiogram>=3.20,<4
+aiohttp>=3.10,<4
+cryptography>=44,<48
+qrcode[pil]>=8.2,<9
+Pillow>=10.4,<14
+tzdata>=2024.1; sys_platform == "win32"

@@ -1,0 +1,26 @@
+# Secrets and local state
+.env
+.env.pending
+*.env.pending
+recovered.env
+*.key
+data/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Backups and restore output
+*.tmbak
+*.tmbak.json
+backups/
+.snapshot-*/
+.verify-*/
+.themarket-restore-*/
+recovered/
+restore*/
+
+# Exports and logs
+*.xlsx
+*.csv
+*.log
+logs/
